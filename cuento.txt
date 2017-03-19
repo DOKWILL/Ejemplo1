@@ -1,1 +1,2 @@
-cuento
+modificacion primera usando git
+Para mi segunda prueba de guradado intentare hacer un commit
